@@ -15,8 +15,9 @@ import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
 
-import com.example.sofia.Sofia;
-import com.example.sofia.StatusView;
+import com.yanzhenjie.sofia.Sofia;
+import com.yanzhenjie.sofia.StatusView;
+
 
 /**
  * Email: 1004260403@qq.com

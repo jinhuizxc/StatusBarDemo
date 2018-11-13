@@ -27,7 +27,7 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 
 import com.example.jinhui.statusbardemo.R;
-import com.example.sofia.Sofia;
+import com.yanzhenjie.sofia.Sofia;
 
 import java.util.ArrayList;
 import java.util.List;

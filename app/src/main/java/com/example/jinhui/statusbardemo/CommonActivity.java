@@ -12,7 +12,8 @@ import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
 
-import com.example.sofia.Sofia;
+import com.yanzhenjie.sofia.Sofia;
+
 
 /**
  * Email: 1004260403@qq.com

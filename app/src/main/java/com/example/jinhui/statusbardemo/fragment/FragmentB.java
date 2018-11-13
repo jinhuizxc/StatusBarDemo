@@ -25,7 +25,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.example.jinhui.statusbardemo.R;
-import com.example.sofia.StatusView;
+import com.yanzhenjie.sofia.StatusView;
 
 
 /**

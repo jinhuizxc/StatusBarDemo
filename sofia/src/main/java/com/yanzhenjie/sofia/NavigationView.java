@@ -1,4 +1,4 @@
-package com.example.sofia;
+package com.yanzhenjie.sofia;
 
 import android.content.Context;
 import android.content.res.Configuration;
@@ -94,7 +94,7 @@ public class NavigationView extends View {
     /**
      * Whether landscape screen.
      */
-    public boolean isLandscape() {
+    protected boolean isLandscape() {
         switch (mConfiguration.orientation) {
             case Configuration.ORIENTATION_LANDSCAPE: {
                 return true;
@@ -105,6 +105,5 @@ public class NavigationView extends View {
                 return false;
             }
         }
-
     }
 }

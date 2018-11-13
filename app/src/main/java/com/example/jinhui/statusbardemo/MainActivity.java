@@ -14,7 +14,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.example.jinhui.statusbardemo.fragment.FragmentActivity;
-import com.example.sofia.Sofia;
+import com.yanzhenjie.sofia.Sofia;
 
 import java.util.Arrays;
 import java.util.List;

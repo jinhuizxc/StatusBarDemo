@@ -1,13 +1,11 @@
-package com.example.sofia;
+package com.yanzhenjie.sofia;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
-import android.content.Context;
 import android.content.res.Configuration;
 import android.graphics.Color;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
-import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewParent;
@@ -15,6 +13,8 @@ import android.view.Window;
 import android.view.WindowInsets;
 import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
+
+import com.example.sofia.R;
 
 /**
  * Email: 1004260403@qq.com

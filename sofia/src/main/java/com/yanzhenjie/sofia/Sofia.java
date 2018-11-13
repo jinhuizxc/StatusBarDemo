@@ -1,4 +1,4 @@
-package com.example.sofia;
+package com.yanzhenjie.sofia;
 
 import android.app.Activity;
 import android.view.View;

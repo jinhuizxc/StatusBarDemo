@@ -1,4 +1,4 @@
-package com.example.sofia;
+package com.yanzhenjie.sofia;
 
 import android.content.Context;
 import android.content.res.Resources;
